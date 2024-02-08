@@ -13,9 +13,7 @@ Remember, the internet doesn't bring out the worst in us.
 
 Without a cetralized set of rules and consequences, it brings out the
 
-#### **Most Human**
-
-inside us
+#### **Most Human** inside us
 
 So always take others with a dose of netiquette
 
@@ -40,7 +38,9 @@ who you are, not who others are."`
 
 [article-1](article-1<link>)
 <br>
+<br>
 [article-2](article-2<link>)
+<br>
 <br>
 [article-3](article-3<link>)
 <br>
