@@ -30,7 +30,7 @@ A variation of a quote you might find cheesy
 `"If they respect you, respect them. If they disrespect you, still respect them. You stand for
 who you are, not who others are."`
 
-================================================================================================
+=====================================================================
 
 **Our upcoming catalog of short articles!**
 > (or maybe not if I spend all my time procrastinating)
@@ -38,11 +38,12 @@ who you are, not who others are."`
 
 ### **2024 articles**
 
-[article-1](article-1<link>)
+*[article-1](article-1<link>)
 
-[article-2](article-2<link>)
+*[article-2](article-2<link>)
 
-[article-3](article-3<link>)
+*[article-3](article-3<link>)
+
 
 And ecetera. Hopefully these example headers will transpire into functioning, living, breathing links and articles capable
 of metabolism. (we can only hope.)
