@@ -38,12 +38,12 @@ who you are, not who others are."`
 
 ### **2024 articles**
 
-*[article-1](article-1<link>)
-
-*[article-2](article-2<link>)
-
-*[article-3](article-3<link>)
-
+[article-1](article-1<link>)
+<b>
+[article-2](article-2<link>)
+<b>
+[article-3](article-3<link>)
+<b>
 
 And ecetera. Hopefully these example headers will transpire into functioning, living, breathing links and articles capable
 of metabolism. (we can only hope.)
