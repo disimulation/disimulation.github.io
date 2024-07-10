@@ -5,3 +5,6 @@
 
 > **Democrats question Biden's eligibility in race-** `DNC stuck in a lose-lose situation as no other contenders provide adequate competitiveness against Biden. Public support for the left looms ever lower due to the lack of a competent primary candidate.`
 > <iframe width="350" height="175" src="https://www.youtube.com/embed/6LPuKVG1teQ?si=veeab1X1mVVRes6Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> **IDF invasion of Gaza-** `The Israeli Defense Force is warning civilians to evacuate Gaza City (population ~200,000), designating the city as a warzone for further conflict. Over 80% of the Gaza strip's population has been displaced since the beginning of the war.`
+> 
