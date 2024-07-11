@@ -7,4 +7,4 @@
 > <iframe width="350" height="175" src="https://www.youtube.com/embed/6LPuKVG1teQ?si=veeab1X1mVVRes6Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > **IDF invasion of Gaza-** `The Israeli Defense Force is warning civilians to evacuate Gaza City (population ~200,000), designating the city as a warzone for further conflict. Over 80% of the Gaza strip's population has been displaced since the beginning of the war.`
-> 
+> <iframe width="350" height="175" src="https://www.youtube.com/embed/7Jyc-LzXqk0?si=TUww-4NQbQO8wN8K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
