@@ -9,8 +9,8 @@
     AOS.init()
 </script>
 
-**29.11.24**
-## We are back! (2024 is almost over already)🫠
+`29.11.24`
+#### We are back! (2024 is almost over already)🫠
 
 > **Insurgents swarm Aleppo-** `A ceasfire between Hezbollah (who backed Syria in 2015) and Israel occured promptly after Syrian opposition factions announced they would be going on offensive. Thousands of insurgent personnel sweeped in from the northwest of Aleppo, engaging with government forces backed by Iran and Russia. Thousands of civilians on the city's outskirts retreat from missile fire.`
 > <iframe width="350" height="175" src="https://www.youtube.com/embed/_kAHDo3yaKc?si=h6Ol3kwswCOHlKvq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
