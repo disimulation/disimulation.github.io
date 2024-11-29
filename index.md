@@ -1,7 +1,7 @@
 # Too much free time?
 ### *Please keep scrolling.*
 
-**Major changes might be underway. This may be characterized by a lack of frequent posting, or a degredation in snippet quality.**
+*Major changes might be underway. This may be characterized by a lack of frequent posting, or a degredation in snippet quality.*
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
 
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
