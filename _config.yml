@@ -1,6 +1,52 @@
 title: Chronically Online.
-logo: /assets/img/logo.png
-description: blogging in 2024 couldnt be worse (haha)
+
+logo: https://www.thedailystar.net/sites/default/files/styles/big_201/public/images/2024/11/15/the_onion_x_infowars.png
+
+description: Most promising argument against free speech, I guess.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+contact_links:
+  - name: Add me on discord (blankusername)
+    
+    url: https://discord.com/channels/@me
+    
+    about: Hello! 👋
+
+name: Cool checkbox thing!
+
+description: YAML? Never heard of it.
+
+title: "Leave a comment, please."
+
+labels: [feature]
+
+assignees: []
+body:
+ 
+  - type: checkboxes
+    attributes:
+     
+      label: Checkbox asmr
+      description: Sorry I could not have come up with anything better.
+      options:
+        - label: Box1
+          required: true
+        - label: Box2
+          required: true
+        - label: Box3
+          required: true
+        - label: Box4
+          required: true
+        - label: Box5
+          required: true
+
+  - type: textarea
+    id: textbox
+   
+    attributes:
+      label: textbox
+      description: Submit ur contention rn debate me u wont!
+    validations:
+      required: true
