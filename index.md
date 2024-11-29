@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Too much free time?
 ### *Please keep scrolling.*
 
