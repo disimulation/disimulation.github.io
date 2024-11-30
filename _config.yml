@@ -1,7 +1,5 @@
 title: "🕋🫠🚷🥑 Shitposting"
 
-logo: https://images.indianexpress.com/2024/11/Shehbaz-Sharif-Tweet.jpeg
-
 description: "Most promising argument against free speech, I guess."
 show_downloads: true
 google_analytics:
@@ -17,6 +15,9 @@ contact_links:
 name: Cool checkbox thing!
 
 description: "Hello! 👋 Every week I'll shitpost the most retarded twitter- I mean X- screenshot I find. Also what is YAML? Never heard of it before. How to use it?"
+=================================================================================================================
+
+logo: https://images.indianexpress.com/2024/11/Shehbaz-Sharif-Tweet.jpeg
 
 labels: [feature]
 
